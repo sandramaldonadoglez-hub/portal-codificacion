@@ -93,3 +93,27 @@ Esta versión utiliza LocalStorage, por lo que los registros permanecen solament
 
 Sandra Maldonado González  
 Licenciatura en Desarrollo de Sistemas Web
+
+## Avance de los sprints
+
+El proyecto se desarrolla de manera individual por Sandra Maldonado González.
+
+- Sprint 1: registro, validación, generación de folio, almacenamiento local, consulta y diseño adaptable.
+- Sprint 2: panel del analista, búsqueda por folio, filtros por estado, actualización y persistencia del estado.
+- Sprint 3: pendientes las notificaciones locales, los archivos adjuntos, los indicadores y la guía de uso.
+
+Avance funcional: 9 de 13 historias terminadas y 39 de 57 puntos.
+
+## Versiones entregadas
+
+- Sprint 1: d7a4fc1.
+- Sprint 2: 4bf193f.
+
+## Pruebas del Sprint 2
+
+Se verificaron la búsqueda, el filtrado, el cambio de estado,
+la conservación de los cambios al recargar y la consulta
+del estado actualizado.
+
+Los datos se almacenan en LocalStorage y están disponibles
+en el mismo navegador y origen del sitio.
